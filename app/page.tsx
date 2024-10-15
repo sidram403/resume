@@ -94,7 +94,7 @@ export default function EnhancedGoogleResume() {
                   {expandedSections.experience ? <ChevronUp size={20} /> : <ChevronDown size={20} />}
                 </button>
               </div>
-              {(expandedSections.experience || window.innerWidth >= 768) && (
+              { (typeof window !== "undefined" && (expandedSections.experience || window.innerWidth >= 768))   && (
                 <div className="space-y-4">
                   <div>
                     <h3 className="text-lg font-medium">Full Stack Developer</h3>
@@ -150,7 +150,7 @@ export default function EnhancedGoogleResume() {
                   {expandedSections.projects ? <ChevronUp size={20} /> : <ChevronDown size={20} />}
                 </button>
               </div>
-              {(expandedSections.projects || window.innerWidth >= 768) && (
+              { (typeof window !== "undefined" && (expandedSections.projects || window.innerWidth >= 768))  && (
                 <div className="space-y-4">
                   <div>
                     <h3 className="text-lg font-medium">Wallpaper App - React Native</h3>
@@ -209,7 +209,7 @@ export default function EnhancedGoogleResume() {
                   {expandedSections.skills ? <ChevronUp size={20} /> : <ChevronDown size={20} />}
                 </button>
               </div>
-              {(expandedSections.skills || window.innerWidth >= 768) && (
+              {(typeof window !== "undefined" && (expandedSections.skills || window.innerWidth >= 768))  && (
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                   <div>
                     <h3 className="font-medium mb-2">Frontend Development</h3>
