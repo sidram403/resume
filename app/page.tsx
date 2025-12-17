@@ -591,9 +591,10 @@ export default function EnhancedGoogleResume() {
                       <ul className="list-disc pl-5 text-sm">
                         <li>Node.js, Express.js, RESTful APIs</li>
                         <li>MongoDB, Firebase, CouchDB, SQL</li>
-                        <li>Git, GitHub, GitLab CI/CD, Jenkins</li>
+                        <li>Git, GitHub, Jenkins</li>
                         <li>Microservices Architecture</li>
                         <li>JWT Authentication, OAuth</li>
+                        <li>AWS (Lambda, S3, EC2, DynamoDB, CloudFront, Cognito, SQS, SNS, CloudWatch, CodePipeline), Docker, CI/CD</li>
                       </ul>
                     </div>
                   </div>
