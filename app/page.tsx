@@ -233,67 +233,106 @@ export default function EnhancedGoogleResume() {
                   <div className="space-y-4">
                     <div>
                       <h3 className="text-lg font-medium">
-                        Full Stack Developer
+                        Software Development Engineer in Test (Backend + Dev
+                        Quality)
                       </h3>
                       <div className="text-sm text-gray-600 flex flex-wrap items-center gap-2">
                         <span className="flex items-center">
-                          <Briefcase size={12} className="mr-1" /> RentNest
+                          <Briefcase size={12} className="mr-1" /> TestYantra –
+                          Liminal Custody (Blockchain Product)
                         </span>
                         <span className="flex items-center">
-                          <MapPin size={12} className="mr-1" /> Remote
+                          <MapPin size={12} className="mr-1" /> Onsite
                         </span>
                         <span className="flex items-center">
-                          <Calendar size={12} className="mr-1" /> Sep 2023 -
-                          Present
+                          <Calendar size={12} className="mr-1" /> Apr 2025 -
+                          Present (8 months)
                         </span>
                       </div>
                       <ul className="list-disc pl-5 text-sm mt-2">
                         <li>
-                          Developed a startup website for room and PG search in
-                          Bangalore
+                          Writing and maintaining unit tests for backend
+                          microservices to ensure secure and reliable digital
+                          asset custody features.
                         </li>
                         <li>
-                          Implemented RESTful APIs and microservices using
-                          Node.js and Express.js
+                          Reduced test execution time from ~20 minutes to 2–3
+                          minutes for 8,000+ test cases by optimizing mocks and
+                          dependency loading.
                         </li>
                         <li>
-                          Integrated MongoDB and Firebase, reducing data access
-                          latency by 40%
+                          Led package and dependency upgrades to resolve
+                          critical security vulnerabilities and ensure
+                          compliance with industry standards.
                         </li>
                         <li>
-                          Implemented JWT authentication and optimized mobile
-                          performance
+                          Improved CI/CD automation pipelines, resulting in
+                          faster builds, fewer flaky tests, and improved release
+                          stability.
+                        </li>
+                        <li>
+                          Worked in a blockchain custody and security-sensitive
+                          financial systems domain.
                         </li>
                       </ul>
                     </div>
                     <div>
                       <h3 className="text-lg font-medium">
-                        SDE- I (Front End Engineer)
+                        Senior Full Stack Engineer
                       </h3>
                       <div className="text-sm text-gray-600 flex flex-wrap items-center gap-2">
                         <span className="flex items-center">
-                          <Briefcase size={12} className="mr-1" /> PairBytes
-                          Software
+                          <Briefcase size={12} className="mr-1" /> AlienHU Pvt.
+                          Ltd
                         </span>
                         <span className="flex items-center">
-                          <MapPin size={12} className="mr-1" /> Remote
+                          <MapPin size={12} className="mr-1" /> Onsite
                         </span>
                         <span className="flex items-center">
-                          <Calendar size={12} className="mr-1" /> Jun 2023 - Sep
-                          2023
+                          <Calendar size={12} className="mr-1" /> Sep 2023 - Feb
+                          2025 (1.6 years)
                         </span>
                       </div>
                       <ul className="list-disc pl-5 text-sm mt-2">
                         <li>
-                          Developed a Shopify e-commerce website using React.js
-                        </li>
+                          Architected and led development of a proprietary
+                          Billing and Invoicing Software Suite using MERN stack
+                          and AWS, serving salon, retail, and restaurant
+                          business domains.
+                        </li>{" "}
                         <li>
-                          Utilized Redux for state management, reducing
-                          application bugs by 20%
-                        </li>
+                          Designed event-driven microservices using AWS Lambda,
+                          API Gateway, and DynamoDB, achieving ~35%
+                          infrastructure cost reduction.
+                        </li>{" "}
                         <li>
-                          Contributed to the Upsidon project, improving user
-                          engagement by 30%
+                          Built custom CRM modules with client data management,
+                          appointment tracking, and automated follow-ups,
+                          increasing client retention by ~35%.
+                        </li>{" "}
+                        <li>
+                          Implemented AWS S3 for secure document storage and
+                          CloudFront CDN for static asset delivery, improving
+                          global application performance by ~60%.
+                        </li>{" "}
+                        <li>
+                          Increased deployment frequency by 3x by implementing
+                          AWS CodePipeline CI/CD automation.
+                        </li>{" "}
+                        <li>
+                          Developed inventory management system with stock
+                          alerts and barcode integration, reducing inventory
+                          discrepancies by ~45%.
+                        </li>{" "}
+                        <li>
+                          Optimized MongoDB queries and implemented React lazy
+                          loading, reducing page load time by ~40% and API
+                          response time by ~65%.
+                        </li>{" "}
+                        <li>
+                          Led and mentored junior developers through sprint
+                          planning and code reviews, improving team delivery
+                          velocity by ~25%.
                         </li>
                       </ul>
                     </div>
@@ -303,31 +342,90 @@ export default function EnhancedGoogleResume() {
                       </h3>
                       <div className="text-sm text-gray-600 flex flex-wrap items-center gap-2">
                         <span className="flex items-center">
-                          <Briefcase size={12} className="mr-1" />{" "}
-                          AlienHU.PVT.LTD
+                          <Briefcase size={12} className="mr-1" /> AlienHU Pvt.
+                          Ltd
                         </span>
                         <span className="flex items-center">
                           <MapPin size={12} className="mr-1" /> On-site
                         </span>
                         <span className="flex items-center">
                           <Calendar size={12} className="mr-1" /> April 2022 -
-                          April 2023
+                          April 2023 (1.5 years)
                         </span>
                       </div>
                       <ul className="list-disc pl-5 text-sm mt-2">
                         <li>
-                          Developed software programs for salon, retail, and
-                          restaurant billing
+                          Implemented core application features across multiple
+                          business applications, improving overall operational
+                          efficiency by ~40%.
+                        </li>{" "}
+                        <li>
+                          Migrated legacy on-premise applications to AWS cloud
+                          infrastructure, improving system reliability and
+                          achieving ~99.9% uptime.
+                        </li>{" "}
+                        <li>
+                          Utilized AWS SQS and SNS for asynchronous message
+                          processing, enabling seamless handling of high-volume
+                          transactions.
                         </li>
                         <li>
-                          Implemented new features and redesigned company
-                          websites
-                        </li>
+                          Built Excel bulk import pipelines and WhatsApp
+                          integration, accelerating client onboarding by ~30%.
+                        </li>{" "}
                         <li>
-                          Introduced bulk import from Excel and WhatsApp
-                          Integration
+                          Collaborated with product and marketing teams to
+                          redesign company websites, improving mobile
+                          performance and usability.
+                        </li>{" "}
+                        <li>
+                          Executed SEO improvements that increased website
+                          visibility by ~45% and doubled lead conversion rates.
+                        </li>{" "}
+                        <li>
+                          Configured AWS CloudWatch monitoring and alerts,
+                          reducing mean time to resolution (MTTR) for critical
+                          issues by ~60%.
+                        </li>{" "}
+                        <li>
+                          Refactored legacy codebases to modern standards,
+                          reducing technical debt by ~50% and improving
+                          maintainability.
                         </li>
-                        <li>Improved SEO for the company website by 45%</li>
+                      </ul>
+                    </div>
+                    <div>
+                      <h3 className="text-lg font-medium">
+                        Front-End Developer
+                      </h3>
+                      <div className="text-sm text-gray-600 flex flex-wrap items-center gap-2">
+                        <span className="flex items-center">
+                          <Briefcase size={12} className="mr-1" /> AlienHU Pvt.
+                          Ltd
+                        </span>
+                        <span className="flex items-center">
+                          <MapPin size={12} className="mr-1" /> Remote
+                        </span>
+                        <span className="flex items-center">
+                          <Calendar size={12} className="mr-1" /> Nov 2021 - Mar
+                          2022 (5 months)
+                        </span>
+                      </div>
+                      <ul className="list-disc pl-5 text-sm mt-2">
+                        <li>
+                          Developed responsive business websites using Angular
+                          with routing, reactive forms, and service-based
+                          architecture.
+                        </li>{" "}
+                        <li>
+                          Implemented lazy loading techniques that reduced page
+                          load time by ~50% and improved SEO rankings.
+                        </li>{" "}
+                        <li>
+                          Created reusable UI component libraries that
+                          accelerated development time for subsequent projects
+                          by ~35%.
+                        </li>
                       </ul>
                     </div>
                   </div>
@@ -355,86 +453,106 @@ export default function EnhancedGoogleResume() {
                   <div className="space-y-4">
                     <div>
                       <h3 className="text-lg font-medium">
-                        Wallpaper App - React Native
+                        Webflow Automation Platform
                       </h3>
-                      <div className="text-sm text-gray-600 flex items-center">
-                        <Calendar size={12} className="mr-1" /> May 2024 - May
-                        2024
-                      </div>
-                      <p className="text-sm mt-2">
-                        Built a new React Native App called Wallpaper App,
-                        utilizing various React Native libraries and the Pixabay
-                        API.
-                      </p>
-                      <h4 className="text-sm font-medium mt-2">
-                        Key Features:
-                      </h4>
+
                       <ul className="list-disc pl-5 text-sm mt-1">
                         <li>
-                          Robust filtering options through a bottom sheet
-                          interface
+                          Designed and developed an end-to-end workflow
+                          automation platform that allows users to configure and
+                          execute multi-step workflows dynamically.
+                        </li>{" "}
+                        <li>
+                          Built a step-by-step execution engine to process tasks
+                          sequentially with real-time status tracking, logging,
+                          and failure handling.
+                        </li>{" "}
+                        <li>
+                          Implemented role-based access control (RBAC) and
+                          JWT-based authentication to ensure secure workflow
+                          management.
+                        </li>{" "}
+                        <li>
+                          Designed modular REST APIs to support scalable
+                          workflow expansion and easy integration with
+                          third-party services.
+                        </li>{" "}
+                        <li>
+                          Optimized backend processing for reliability and
+                          performance in complex automation scenarios.
                         </li>
-                        <li>Search functionality for specific wallpapers</li>
-                        <li>Sharing and downloading capabilities</li>
                       </ul>
                       <h4 className="text-sm font-medium mt-2">
                         Technologies Used:
                       </h4>
                       <div className="flex flex-wrap gap-2 mt-1">
                         <span className="bg-blue-100 text-blue-800 text-xs px-2 py-1 rounded">
-                          React Native
+                          React.js
                         </span>
                         <span className="bg-green-100 text-green-800 text-xs px-2 py-1 rounded">
-                          Expo
-                        </span>
-                        <span className="bg-yellow-100 text-yellow-800 text-xs px-2 py-1 rounded">
-                          Pixabay API
-                        </span>
-                      </div>
-                    </div>
-                    <div>
-                      <h3 className="text-lg font-medium">
-                        RentNest — MERN Stack
-                      </h3>
-                      <p className="text-sm mt-2">
-                        A startup website to search rooms, PG, or PG roommates,
-                        and Flats for Rent in Bangalore.
-                      </p>
-                      <div className="flex flex-wrap gap-2 mt-2">
-                        <span className="bg-blue-100 text-blue-800 text-xs px-2 py-1 rounded">
-                          React
-                        </span>
-                        <span className="bg-green-100 text-green-800 text-xs px-2 py-1 rounded">
-                          MongoDB
-                        </span>
-                        <span className="bg-yellow-100 text-yellow-800 text-xs px-2 py-1 rounded">
                           Node.js
                         </span>
-                        <span className="bg-red-100 text-red-800 text-xs px-2 py-1 rounded">
+                        <span className="bg-yellow-100 text-yellow-800 text-xs px-2 py-1 rounded">
                           Express.js
+                        </span>
+                        <span className="bg-purple-100 text-purple-800 text-xs px-2 py-1 rounded">
+                          MongoDB
+                        </span>
+                        <span className="bg-red-100 text-red-800 text-xs px-2 py-1 rounded">
+                          JWT Authentication
+                        </span>
+                        <span className="bg-orange-100 text-orange-800 text-xs px-2 py-1 rounded">
+                          REST APIs
                         </span>
                       </div>
                     </div>
                     <div>
                       <h3 className="text-lg font-medium">
-                        Crypto Hunter App — React
+                        GST ITC Reconciliation Dashboard
                       </h3>
-                      <p className="text-sm mt-2">
-                        A user-friendly application for real-time tracking of
-                        cryptocurrency prices by market cap.
-                      </p>
+                      <ul className="list-disc pl-5 text-sm mt-1">
+                        <li>
+                          Built a dashboard to automate GST invoice
+                          reconciliation by matching purchase invoices with
+                          GSTR-2A filings.
+                        </li>{" "}
+                        <li>
+                          Implemented rule-based ITC eligibility validation
+                          using HSN codes, GST rates, invoice dates, and filing
+                          timelines.
+                        </li>{" "}
+                        <li>
+                          Identified invoice mismatches and potential ITC loss
+                          through actionable analytics and reconciliation
+                          reports.
+                        </li>{" "}
+                        <li>
+                          Enabled Excel/CSV bulk import functionality to handle
+                          large volumes of invoice data efficiently.
+                        </li>{" "}
+                        <li>
+                          Developed interactive dashboards and charts to provide
+                          clear financial insights for business users.
+                        </li>
+                      </ul>
                       <div className="flex flex-wrap gap-2 mt-2">
                         <span className="bg-blue-100 text-blue-800 text-xs px-2 py-1 rounded">
-                          React
+                          React.js
+                        </span>
+                        <span className="bg-green-100 text-green-800 text-xs px-2 py-1 rounded">
+                          Node.js
+                        </span>
+                        <span className="bg-yellow-100 text-yellow-800 text-xs px-2 py-1 rounded">
+                        Express.js
                         </span>
                         <span className="bg-purple-100 text-purple-800 text-xs px-2 py-1 rounded">
-                          API Integration
+                        MongoDB
                         </span>
-                        <span className="bg-indigo-100 text-indigo-800 text-xs px-2 py-1 rounded">
-                          State Management
-                        </span>
+                        <span className="bg-orange-100 text-orange-800 text-xs px-2 py-1 rounded">REST APIs</span>
+                        <span className="bg-purple-100 text-purple-800 text-xs px-2 py-1 rounded">Chart.js</span>
                       </div>
                     </div>
+                  
                   </div>
                 )}
             </div>
