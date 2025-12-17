@@ -927,7 +927,7 @@ export default function EnhancedGoogleResume() {
             <p className="mb-4">Thank you for your interest! You can:</p>
             <div className="space-y-4">
               <a
-                href="https://drive.google.com/file/d/1KVBLP_Tja9hTuJHK_2Hi3sALOy5fBR5j/view?usp=sharing"
+                href="https://drive.google.com/file/d/1QQAV7nU_99UBzIRyGyTzClwjY1UN77EZ/view?usp=sharing"
                 download
                 className="block w-full bg-blue-500 text-white text-center py-2 rounded hover:bg-blue-600 transition-colors"
               >
